@@ -27,3 +27,7 @@ import Shop from 'lazy!./view/Shop';
 
 ```
 
+
+# License
+
+[The MIT License](http://opensource.org/licenses/MIT)

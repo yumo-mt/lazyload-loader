@@ -1,20 +1,20 @@
 {
-  "name": "lazyload-loader",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rongchanghai/lazyload-loader.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rongchanghai/lazyload-loader/issues"
-  },
-  "homepage": "https://github.com/rongchanghai/lazyload-loader#readme"
+    "name": "lazyload-loader",
+    "version": "1.0.0",
+    "description": "react lazy loader",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rongchanghai/lazyload-loader.git"
+    },
+    "keywords": ['lazyload-loader', 'react', 'lazyload'],
+    "author": "manster",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rongchanghai/lazyload-loader/issues"
+    },
+    "homepage": "https://github.com/rongchanghai/lazyload-loader#readme"
 }
