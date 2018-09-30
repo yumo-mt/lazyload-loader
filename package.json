@@ -11,9 +11,9 @@
         "url": "git+https://github.com/rongchanghai/lazyload-loader.git"
     },
     "keywords": [
-        'lazyload-loader',
-        'react',
-        'lazyload'
+        "lazyload-loader",
+        "react",
+        "lazyload"
     ],
     "author": "manster",
     "license": "MIT",
