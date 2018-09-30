@@ -1,6 +1,6 @@
 {
     "name": "lazyload-loader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "react lazy loader",
     "main": "index.js",
     "scripts": {
@@ -10,7 +10,11 @@
         "type": "git",
         "url": "git+https://github.com/rongchanghai/lazyload-loader.git"
     },
-    "keywords": ['lazyload-loader', 'react', 'lazyload'],
+    "keywords": [
+        'lazyload-loader',
+        'react',
+        'lazyload'
+    ],
     "author": "manster",
     "license": "MIT",
     "bugs": {
