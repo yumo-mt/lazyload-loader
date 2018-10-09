@@ -5,7 +5,7 @@
 ```
  npm install --save-dev lazyload-loader
 ```
- webpack配置
+ ### webpack配置
 ```
 
  module: {
@@ -22,13 +22,14 @@
 
 ```
 
-Router 的配置
+### Router 的配置
+
 ```
 // 使用lazy! 作为前缀
 import Shop from 'lazy!./view/Shop';
 
 // Route 正常使用
- <Route path="/shop" component={Shop} />
+ <Route path="/shop" component={Shop} />
 
 ```
 
