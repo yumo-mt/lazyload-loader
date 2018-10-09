@@ -25,7 +25,7 @@
 Router 的配置
 ```
 // 使用lazy! 作为前缀
-import Shop from 'lazy!./view/Shop';
+import Shop from 'lazy!./view/Shop';
 
 // Route 正常使用
  <Route path="/shop" component={Shop} />
