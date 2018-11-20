@@ -29,11 +29,12 @@ window.__lazy_callback__ = function (lazyModule) {
   };
 }
 `;
-let insertTemp = false;
+
 module.exports = (content) => {
-  if(!insertTemp){
-    insertTemp = true;
-    content = lazyLoaderTemp+'\n'+ content;
+  global.insertTemp = false;
+  if (!global.insertTemp) {
+    global.insertTemp = true;
+    content = lazyLoaderTemp + '\n' + content;
   }
   try {
     content = content.split('\n').map((line) => {
